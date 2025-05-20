@@ -24,8 +24,7 @@ Visit the project here: [https://yourwebsiteurl.com](https://yourwebsiteurl.com)
 The following machine learning algorithms and concepts are covered:
 
 -  **Random Forest**
--  **Decision Tree *
--  **Random Forest**
+-  **Decision Tree**
 -  **Linear Regression**
 -  **Logistic Regression**
 -  **DB-SCAN**
