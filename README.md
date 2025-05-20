@@ -48,3 +48,19 @@ git clone https://github.com/Gowtham0810-hype/ML-VIS.git
 cd ML-VIS
 npm install
 npm start
+
+## 📂 How to Extract the ZIP File
+
+After cloning the repository, you’ll find a large `.zip` file containing key resources or visualizations. You need to extract it to use the contents.
+
+### 🖥️ Windows
+Right-click on the file and choose **“Extract All…”**, then follow the prompts.
+
+### 🍎 macOS
+Double-click the `.zip` file to automatically extract it.
+
+### 🐧 Linux / macOS Terminal
+Open a terminal and run:
+```bash
+unzip your_large_file.zip
+
