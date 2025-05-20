@@ -8,7 +8,7 @@ Our mission is to make complex machine learning concepts accessible to everyone 
 
 ## 🌐 Live Website
 
-Visit the project here: [https://yourwebsiteurl.com](https://ml-vis-egcb.vercel.app/)
+Visit the project here: [https://ml-vis-egcb.vercel.app/](https://ml-vis-egcb.vercel.app/)
 
 ---
 
