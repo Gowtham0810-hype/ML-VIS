@@ -14,7 +14,8 @@ Visit the project here: [https://yourwebsiteurl.com](https://yourwebsiteurl.com)
 
 ## 🖼️ Website Screenshot
 
-![ML-VIS Website Screenshot](./assets/screenshot.png)
+![ML-VIS Website Screenshot](./assets/main.png)
+![ML-VIS Website Screenshot](./assets/sub.png)
 
 
 ---
