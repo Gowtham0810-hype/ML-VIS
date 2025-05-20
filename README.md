@@ -12,13 +12,9 @@ Visit the project here: [https://yourwebsiteurl.com](https://yourwebsiteurl.com)
 
 ---
 
-## 🖼️ Website Screenshot 1
+## 🖼️ Website Screenshot 
 
 ![ML-VIS Website Screenshot](./assets/main.png)
-
-## 🖼️ Website Screenshot 2
-
-![ML-VIS Website Screenshot](./assets/sub.png)
 
 
 ---
@@ -37,6 +33,10 @@ The following machine learning algorithms and concepts are covered:
 -  **Self-Organizing Map**
 -  **Ada Boost**
 -  **Perceptron**
+
+## 🖼️ Example Decision Tree
+
+![ML-VIS Website Screenshot](./assets/ex.png)
 
 
 ---
