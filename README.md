@@ -12,9 +12,12 @@ Visit the project here: [https://yourwebsiteurl.com](https://yourwebsiteurl.com)
 
 ---
 
-## 🖼️ Website Screenshot
+## 🖼️ Website Screenshot 1
 
 ![ML-VIS Website Screenshot](./assets/main.png)
+
+## 🖼️ Website Screenshot 2
+
 ![ML-VIS Website Screenshot](./assets/sub.png)
 
 
